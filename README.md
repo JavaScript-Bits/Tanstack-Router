@@ -16,11 +16,11 @@ npm i & npm run dev
 
 
 ## Topics covered
-Configuration & routegen
-Typescript autocomplete on routes
-Lazy loaded components
-Path with params
-Path with search
-Search params on routes (encoding)
-Loaders
-Pending & Error components
+- Configuration & routegen
+- Typescript autocomplete on routes
+- Lazy loaded components
+- Path with params
+- Path with search
+- Search params on routes (encoding)
+- Loaders
+- Pending & Error components
